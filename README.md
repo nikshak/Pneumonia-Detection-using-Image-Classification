@@ -1,0 +1,2 @@
+# Pneumonia-Detection-using-Image-Classification
+The implementation of clinical-decision support algorithms for medical imaging faces challenges with reliability and interpretability.  We strive to demonstrate the applicability of our Artificial Intelligence system for diagnosis of pediatric pneumonia using chest X-ray images. Goal: Use various neural network deep learning machine learning models to detect pneumonia on pediatric chest X-rays
